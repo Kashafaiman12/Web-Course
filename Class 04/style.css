@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(17, 215, 93);
+}
+.box{
+    /* margin-top: 50px; */
+    height: 530px;
+    width: 300px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 15px;
+}
+#head{
+    color: whitesmoke
+}
+img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.section{
+    display: flex;
+    gap: 25px;
+   padding-left: 110px;
+}
+.p{
+    color: green;
+}
+.p1{
+    color: blue;
+    line-height: 15px;
+}
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+p{
+    padding: 10px;
+   
+}
+button{
+    padding: 10px;
+    background-color: rgba(19, 19, 207, 0.82);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 280px;
+margin-left: 9px;
+}
