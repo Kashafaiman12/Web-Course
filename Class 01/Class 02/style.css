@@ -1,0 +1,30 @@
+.class{
+    display: inline;
+}
+#class1{
+    padding-left: 30px;
+}
+#class2{
+    padding-left: 30px;
+}
+.form1{
+    display: flex;
+    gap: 25px;
+}
+.form2{
+    display: flex;
+    gap: 145px;
+}
+.p{
+    padding-left: 25px;
+}
+p{
+    font-size: 12px;
+}
+sup{
+    color: rgb(237, 7, 7);
+}
+button{
+    padding: 7px;
+    
+}
