@@ -2,7 +2,6 @@ body{
     background-color: rgb(17, 215, 93);
 }
 .box{
-    /* margin-top: 50px; */
     height: 530px;
     width: 300px;
     border: 1px solid black;
